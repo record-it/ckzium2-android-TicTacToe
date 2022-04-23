@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="dashboard_title">Tic Tac Toe</string>
+    <string name="dashboard_vs_computer_btn">Play with computer</string>
+    <string name="dashboard_vs_player_btn">Play with player</string>
+</resources>
